@@ -13,7 +13,7 @@
       "title": "Pink Pulse",
       "artist": "Katseye",
       "coverURL": "https://your-cdn.com/covers/s2.png",
-      "audioURL": "https://your-cdn.com/audio/s2.mp3",
+      "audioURL": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/KatseyeVoiceCall.mp3",
       "lyrics": "Verse 1...\nChorus...\nVerse 2...\nOutro..."
     },
     {
@@ -21,7 +21,7 @@
       "title": "Deep Purple Night",
       "artist": "Katseye",
       "coverURL": "https://your-cdn.com/covers/s3.png",
-      "audioURL": "https://your-cdn.com/audio/s3.mp3",
+      "audioURL": "https://raw.githubusercontent.com/Marrokii/KatseyePrankCall/main/KatseyeVoiceCall.mp3",
       "lyrics": "Intro...\nLine...\nLine...\nEnd..."
     }
   ],
@@ -30,37 +30,37 @@
       "id": "w1",
       "title": "Soft Clouds",
       "category": "HD",
-      "imageURL": "https://your-cdn.com/walls/w1.png"
+      "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhDQq6allnBzgNXub6B4nkAmAw3DeAXPE0NlFwzxkJerxO4KYRnViVqufiIr2v7sWuD_s3W6Ab0mIII63BVsdPr3J-kTrf0KZhRmOaAHry90f_aO-kMaYNkeZ1lmSOfeJcqAnT9DuiAZr4qcfWsUnvxqD7Grsk_d20bLsz89cKYwbla_jjp3uTQNjMByws1=s16000"
     },
     {
       "id": "w2",
       "title": "Lavender Dream",
       "category": "HD",
-      "imageURL": "https://your-cdn.com/walls/w2.png"
+      "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhDQq6allnBzgNXub6B4nkAmAw3DeAXPE0NlFwzxkJerxO4KYRnViVqufiIr2v7sWuD_s3W6Ab0mIII63BVsdPr3J-kTrf0KZhRmOaAHry90f_aO-kMaYNkeZ1lmSOfeJcqAnT9DuiAZr4qcfWsUnvxqD7Grsk_d20bLsz89cKYwbla_jjp3uTQNjMByws1=s16000"
     },
     {
       "id": "w3",
       "title": "Pink Aura",
       "category": "HD",
-      "imageURL": "https://your-cdn.com/walls/w3.png"
+      "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhDQq6allnBzgNXub6B4nkAmAw3DeAXPE0NlFwzxkJerxO4KYRnViVqufiIr2v7sWuD_s3W6Ab0mIII63BVsdPr3J-kTrf0KZhRmOaAHry90f_aO-kMaYNkeZ1lmSOfeJcqAnT9DuiAZr4qcfWsUnvxqD7Grsk_d20bLsz89cKYwbla_jjp3uTQNjMByws1=s16000"
     },
     {
       "id": "w4",
       "title": "4K Galaxy",
       "category": "4K",
-      "imageURL": "https://your-cdn.com/walls/w4.png"
+      "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhDQq6allnBzgNXub6B4nkAmAw3DeAXPE0NlFwzxkJerxO4KYRnViVqufiIr2v7sWuD_s3W6Ab0mIII63BVsdPr3J-kTrf0KZhRmOaAHry90f_aO-kMaYNkeZ1lmSOfeJcqAnT9DuiAZr4qcfWsUnvxqD7Grsk_d20bLsz89cKYwbla_jjp3uTQNjMByws1=s16000"
     },
     {
       "id": "w5",
       "title": "4K Neon",
       "category": "4K",
-      "imageURL": "https://your-cdn.com/walls/w5.png"
+      "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhDQq6allnBzgNXub6B4nkAmAw3DeAXPE0NlFwzxkJerxO4KYRnViVqufiIr2v7sWuD_s3W6Ab0mIII63BVsdPr3J-kTrf0KZhRmOaAHry90f_aO-kMaYNkeZ1lmSOfeJcqAnT9DuiAZr4qcfWsUnvxqD7Grsk_d20bLsz89cKYwbla_jjp3uTQNjMByws1=s16000"
     },
     {
       "id": "w6",
       "title": "4K Sunset",
       "category": "4K",
-      "imageURL": "https://your-cdn.com/walls/w6.png"
+      "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhDQq6allnBzgNXub6B4nkAmAw3DeAXPE0NlFwzxkJerxO4KYRnViVqufiIr2v7sWuD_s3W6Ab0mIII63BVsdPr3J-kTrf0KZhRmOaAHry90f_aO-kMaYNkeZ1lmSOfeJcqAnT9DuiAZr4qcfWsUnvxqD7Grsk_d20bLsz89cKYwbla_jjp3uTQNjMByws1=s16000"
     }
   ]
 }
